@@ -1,0 +1,55 @@
+.titulo-seccion h2 {
+    font-size: 50px;
+    margin: 30px 0;
+}
+
+.enlaces-seccion a {
+    text-decoration: none;
+}
+
+.seccion1>p {
+    margin: 30px 0;
+}
+
+.seccion2 {
+    display: flex;
+}
+
+.bloque-texto {
+    margin-right: 10px;
+}
+
+.bloque-texto h3 {
+    margin-top: 60px;
+}
+
+.bloque-texto h1 {
+    margin: 10px 0;
+}
+
+.contenedor-imagen img {
+    width: 380px;
+    border-radius: 0;
+}
+
+.botones-accion {
+    margin-top: 25px;
+}
+
+
+
+/* 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table td {
+    border: 1px solid black;                      este codigo CSS lo use para entender la tabla de pie de pagina
+    padding: 5px;
+    text-align: center;
+}
+
+table td[rowspan] {
+    vertical-align: top;
+} */
